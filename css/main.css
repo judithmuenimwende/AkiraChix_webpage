@@ -1,0 +1,15 @@
+body{
+	background-color:darkgrey;
+}
+.cont{
+	width:500px;
+	height:700px;
+	background-color:purple;
+	margin:0 auto;
+	padding-left: 50px;
+	font-size: 20px;
+}
+h1{
+	text-align: center;
+	padding-top: 40px;
+}
